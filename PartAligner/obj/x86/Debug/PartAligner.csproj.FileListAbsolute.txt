@@ -1,0 +1,12 @@
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\bin\Debug\PartAligner.exe
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\bin\Debug\PartAligner.pdb
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\PartAligner.exe
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\PartAligner.pdb
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\bin\Debug\PartAligner.exe.config
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\EndUser\my documents\visual studio 2010\Projects\PartAligner\PartAligner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
